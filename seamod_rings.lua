@@ -1,8 +1,8 @@
 --==============================================================================
 --                            seamod_rings.lua
 --
---  Date    : 05/02/2012
---  Author  : SeaJey
+--  Date    : 10/04/2017
+--  Author  : jtapio (Original Author SeaJey)
 --  Version : v0.1
 --  License : Distributed under the terms of GNU GPL version 2 or later
 --
